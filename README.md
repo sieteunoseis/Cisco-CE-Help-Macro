@@ -106,4 +106,4 @@ There are many flavors of deployment, but I recommend using Ce-Deploy by Christo
 * Antoine Eduoard - *Mentor*
 * Dawn Passerini - *Mentor*
 * Broderic Flannery - *Assisted in testing*
-* Robert McGonigle Jr - *Author of orignal code
+* Robert McGonigle Jr - *Author of orignal code*
