@@ -25,9 +25,12 @@ Edit the ```mediaList``` variable to include all of the content you'd like to de
   * Each Page will be based off the category provided
   * Each row will populate in their respective page, providing a button and information for the user
 * After the mediaList object array has been sorted through, a new Panel will be pushed onto the Touch 10, similar to the one below.
+
 ![example1.png](https://github.com/sieteunoseis/Cisco-CE-Help-Macro/blob/main/example1.png)
 * From there, the UI elements should start working based on the information you have provided in the script
+
 ![example2.png](https://github.com/sieteunoseis/Cisco-CE-Help-Macro/blob/main/example2.png)
+
 ![example3.png](https://github.com/sieteunoseis/Cisco-CE-Help-Macro/blob/main/example3.png)
 
 ### Example format
